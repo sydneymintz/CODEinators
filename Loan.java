@@ -1,5 +1,5 @@
 public class Loan {
-  int amount;
-  int interestRate;
+  double amount;
+  double interestRate;
   int months;
 }
